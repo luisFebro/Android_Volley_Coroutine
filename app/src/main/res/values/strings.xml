@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volley Coroutine</string>
+    <string name="click_google_btn">Click Google</string>
+</resources>
